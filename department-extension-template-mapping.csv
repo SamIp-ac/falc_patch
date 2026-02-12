@@ -1,0 +1,7 @@
+Department,Extension,JSON Key,Template Name,Template JSON
+Claim,.pdf,Claim No.,Claim Document,"{""Claim No."":""""}"
+Claim,.jpg,Claim No.,Claim Document,"{""Claim No."":""""}"
+Claim,.png,Claim No.,Claim Document,"{""Claim No."":""""}"
+EB,.msg,emailName,,null
+Finance,.pdf,Payment Number,,null
+Finance,.pdf,Account Payable,,null
